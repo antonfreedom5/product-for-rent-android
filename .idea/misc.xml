@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.333786231884058" />
+        <entry key="app/src/main/res/layout/fragment_add_client.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_add_employee.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_add_position.xml" value="0.15896739130434784" />
+        <entry key="app/src/main/res/layout/fragment_add_postion.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_add_product.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_add_storage.xml" value="0.15896739130434784" />
+        <entry key="app/src/main/res/layout/fragment_client.xml" value="0.4015594541910331" />
+        <entry key="app/src/main/res/layout/fragment_employee.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_position.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_product.xml" value="0.16" />
+        <entry key="app/src/main/res/layout/fragment_storage.xml" value="0.22" />
+        <entry key="app/src/main/res/menu/bottom_menu.xml" value="0.35625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
