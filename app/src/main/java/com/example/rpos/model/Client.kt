@@ -6,4 +6,8 @@ data class Client (
     val phone: String,
     val address: String,
     val products: List<Product>
-        )
+        ) {
+    override fun toString(): String {
+        return "$name, $phone, $address, $products"
+    }
+}
